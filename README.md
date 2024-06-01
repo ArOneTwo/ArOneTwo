@@ -7,6 +7,7 @@ Language that i proefficient:
 * Javascript
 * Python
 * HTML and CSS
+* MySQL
   
 Frameworks(still learning):
 * Blazor(C#)
@@ -14,3 +15,9 @@ Frameworks(still learning):
 * VueJS
 * ReactJS
 * Bootstrap
+
+Tools:
+* Visual Studio Code ftw
+* Visual Studio
+* Google Cloud Platform
+* Postman
