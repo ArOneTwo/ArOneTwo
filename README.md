@@ -15,6 +15,7 @@ Frameworks(still learning):
 * VueJS
 * ReactJS
 * Bootstrap
+* TailwindCSS
 
 Tools:
 * Visual Studio Code ftw
